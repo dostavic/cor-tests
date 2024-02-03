@@ -1,0 +1,2 @@
+/usr/bin/ar qc libInfilGenerator_lib.a CMakeFiles/InfilGenerator_lib.dir/OutfilData.cpp.o CMakeFiles/InfilGenerator_lib.dir/Timestamp.cpp.o CMakeFiles/InfilGenerator_lib.dir/geo_to_mag.cpp.o CMakeFiles/InfilGenerator_lib.dir/infilGenerator.cpp.o CMakeFiles/InfilGenerator_lib.dir/main.cpp.o
+/usr/bin/ranlib libInfilGenerator_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/Asmp_tst.dir/DataVectors-test.cpp.o" "CMakeFiles/Asmp_tst.dir/Formula-test.cpp.o" CMakeFiles/Asmp_tst.dir/SpectrumLoader_bin1.cpp.o CMakeFiles/Asmp_tst.dir/SpectrumLoader_test.cpp.o CMakeFiles/Asmp_tst.dir/main.cpp.o -o Asmp_tst  ../../src/Asmp/libAsmp_lib.a ../../lib/libgtest.a 

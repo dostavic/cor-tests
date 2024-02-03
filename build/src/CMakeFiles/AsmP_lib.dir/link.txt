@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAsmP_lib.a CMakeFiles/AsmP_lib.dir/DataVectors.cpp.o CMakeFiles/AsmP_lib.dir/SpectrumLoader.cpp.o CMakeFiles/AsmP_lib.dir/ThroughputFunc.cpp.o CMakeFiles/AsmP_lib.dir/main.cpp.o CMakeFiles/AsmP_lib.dir/utilities.cpp.o
+/usr/bin/ranlib libAsmP_lib.a

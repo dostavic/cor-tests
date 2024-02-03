@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/InfilGenerator_tst.dir/2step.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/2step.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Geo_to_mag.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Geo_to_mag.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/IGRF_1d_true.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/IGRF_1d_true.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/InfilGenerator_test.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/InfilGenerator_test.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Infil_test.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Infil_test.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Mag_T05.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Mag_T05.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Mag_T96.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Mag_T96.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/OutfilData.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/OutfilData.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/OutfilData_test.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/OutfilData_test.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/T05_1d_true.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/T05_1d_true.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/T96_1d_true.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/T96_1d_true.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Timestamp_test.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Timestamp_test.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_IGRF.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_IGRF.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_T05.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_T05.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_T96.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Trajectory_T96.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/Write_test.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/Write_test.cpp.o.d"
+  "CMakeFiles/InfilGenerator_tst.dir/main.cpp.o"
+  "CMakeFiles/InfilGenerator_tst.dir/main.cpp.o.d"
+  "InfilGenerator_tst"
+  "InfilGenerator_tst.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/InfilGenerator_tst.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
